@@ -1,0 +1,14 @@
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\bin\Debug\AndrewDaniels_CE10.exe.config
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.csprojResolveAssemblyReference.cache
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.Form1.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.Properties.Resources.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.UserInput.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.csproj.GenerateResource.Cache
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\bin\Debug\AndrewDaniels_CE10.exe
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\bin\Debug\AndrewDaniels_CE10.pdb
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\bin\Debug\MySql.Data.dll
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.exe
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.pdb
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\bin\Debug\AndrewDaniels_CE10.exe.config
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.exe
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE10\AndrewDaniels_CE10\obj\Debug\AndrewDaniels_CE10.pdb

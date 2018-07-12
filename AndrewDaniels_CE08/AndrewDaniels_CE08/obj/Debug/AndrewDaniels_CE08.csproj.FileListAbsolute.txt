@@ -1,0 +1,25 @@
+//vmware-host/Shared Folders/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/bin/Debug/AndrewDaniels_CE08.exe.config
+//vmware-host/Shared Folders/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.exe
+//vmware-host/Shared Folders/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.pdb
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/bin/Debug/AndrewDaniels_CE08.exe.config
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/bin/Debug/AndrewDaniels_CE08.exe
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/bin/Debug/AndrewDaniels_CE08.pdb
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/bin/Debug/Newtonsoft.Json.dll
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/bin/Debug/Newtonsoft.Json.xml
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.csprojResolveAssemblyReference.cache
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.Form1.resources
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.Properties.Resources.resources
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.csproj.GenerateResource.Cache
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.csproj.CoreCompileInputs.cache
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.exe
+/Users/andrewdaniels/Desktop/Full Sail University/Visual Frameworks/AndrewDaniels_CE08/AndrewDaniels_CE08/obj/Debug/AndrewDaniels_CE08.pdb
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\bin\Debug\AndrewDaniels_CE08.exe.config
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\obj\Debug\AndrewDaniels_CE08.exe
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\obj\Debug\AndrewDaniels_CE08.pdb
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\bin\Debug\AndrewDaniels_CE08.exe
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\bin\Debug\AndrewDaniels_CE08.pdb
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\bin\Debug\Newtonsoft.Json.dll
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\bin\Debug\Newtonsoft.Json.xml
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\obj\Debug\AndrewDaniels_CE08.Form1.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\obj\Debug\AndrewDaniels_CE08.Properties.Resources.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE08\AndrewDaniels_CE08\obj\Debug\AndrewDaniels_CE08.csproj.GenerateResource.Cache

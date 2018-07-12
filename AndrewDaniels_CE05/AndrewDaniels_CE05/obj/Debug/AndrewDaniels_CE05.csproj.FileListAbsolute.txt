@@ -1,0 +1,20 @@
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\bin\Debug\AndrewDaniels_CE05.exe.config
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\bin\Debug\AndrewDaniels_CE05.exe
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\bin\Debug\AndrewDaniels_CE05.pdb
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.csprojResolveAssemblyReference.cache
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.Form1.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.Properties.Resources.resources
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.csproj.GenerateResource.Cache
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.exe
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.pdb
+Z:\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.Dialog.resources
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\bin\Debug\AndrewDaniels_CE05.exe.config
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.exe
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.pdb
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\bin\Debug\AndrewDaniels_CE05.exe
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\bin\Debug\AndrewDaniels_CE05.pdb
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.Dialog.resources
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.mainForm.resources
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Full Sail University\Visual Frameworks\AndrewDaniels_CE05\AndrewDaniels_CE05\obj\Debug\AndrewDaniels_CE05.csproj.GenerateResource.Cache
